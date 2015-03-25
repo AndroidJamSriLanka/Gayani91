@@ -11,6 +11,6 @@ My idea is to devolop an android app for mountain hikers which has the following
           give brief information of the selected place,
           routine to the destination,
           give the elevation details of their location,
-          weather report of the perticular location on that day and 
+          weather report of the particular location on that day and 
           suggest nearest lodges, bus stops, railway stations, shops, medical centers etc.
         
