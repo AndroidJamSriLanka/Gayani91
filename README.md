@@ -14,3 +14,7 @@ My idea is to devolop an android app for mountain hikers which has the following
           weather report of the particular location on that day and 
           suggest nearest lodges, bus stops, railway stations, shops, medical centers etc.
         
+Here are the API's i'm going to use in my app,
+to get locations - Google Places API https://developers.google.com/places/android/
+to get elevation - The Google Elevation API https://developers.google.com/maps/documentation/elevation/
+to get weather report of a particular location - Weather API(Open Weather Map) http://openweathermap.org/api
