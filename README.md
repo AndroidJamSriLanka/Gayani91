@@ -16,5 +16,7 @@ My idea is to devolop an android app for mountain hikers which has the following
         
 Here are the API's i'm going to use in my app,
 to get locations - Google Places API https://developers.google.com/places/android/
+
 to get elevation - The Google Elevation API https://developers.google.com/maps/documentation/elevation/
+
 to get weather report of a particular location - Weather API(Open Weather Map) http://openweathermap.org/api
