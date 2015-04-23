@@ -1,3 +1,6 @@
+
+<!--data entered here are just to check the UI design, later data will be generated from an external source  -->
+
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
