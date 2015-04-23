@@ -76,7 +76,6 @@ public class MapsActivity extends FragmentActivity {
         horton_plains = mMap.addMarker(new MarkerOptions()
                 .position(HORTON_PLAINS)
                 .snippet("Latitude 6.811578,Longitude 80.787887")
-                .snippet("Elevation ")
                 .title("Horton Plains National Park")
                 .icon(BitmapDescriptorFactory.defaultMarker(BitmapDescriptorFactory.HUE_AZURE)));
 
@@ -97,8 +96,7 @@ public class MapsActivity extends FragmentActivity {
         LatLng SINHARAJA = new LatLng(6.390037,80.501325);
         sinharaja = mMap.addMarker(new MarkerOptions()
                 .position(SINHARAJA)
-                .snippet("Latitude 6.390037, Longitude 80.501325"+ "\n " +
-                        "ddddd")
+                .snippet("Latitude 6.390037, Longitude 80.501325")
                 .title("Sinharaja Forest Reserve")
                 .icon(BitmapDescriptorFactory.defaultMarker(BitmapDescriptorFactory.HUE_AZURE)));
 
@@ -106,7 +104,7 @@ public class MapsActivity extends FragmentActivity {
         belihuloya = mMap.addMarker(new MarkerOptions()
                 .position(BELIHULOYA)
                 .title("Belihuloya")
-                .snippet("Latitude 6.715212 /n gggggg /n ddddd")
+                .snippet("Latitude 6.715212, Longitude 80.771817")
                 .icon(BitmapDescriptorFactory.defaultMarker(BitmapDescriptorFactory.HUE_AZURE)));
 
 
