@@ -8,12 +8,12 @@ Mountain hiking is a popular leisure time activity. Many people love hiking but 
 
 Solution: <br/>
 My idea is to devolop an android app for mountain hikers which has the following features: <br/>
-         * select best places for hiking <br/>
-         * give brief information of the selected place <br/>
-         * route to the destination <br/>
-         * give the elevation details of their location <br/>
-         * weather report of the particular location on that day and <br/>
-         * suggest nearest lodges, bus stops, railway stations, shops, medical centers etc.
+- select best places for hiking <br/>
+- give brief information of the selected place <br/>
+- route to the destination <br/>
+- give the elevation details of their location <br/>
+- weather report of the particular location on that day and <br/>
+- suggest nearest lodges, bus stops, railway stations, shops, medical centers etc.
         
 #### APIs used
 
@@ -29,9 +29,9 @@ Get data using REST APIs
 
 ### Screenshots
 
-![Alt text](https://github.com/AndroidJamSriLanka/HikingPal/blob/master/UI_Design/1.png "Starting Screen")
-![Alt text](https://github.com/AndroidJamSriLanka/HikingPal/blob/master/UI_Design/2.png "Map View")
-![Alt text](https://github.com/AndroidJamSriLanka/HikingPal/blob/master/UI_Design/3.png "Display info")
+![Alt text](https://github.com/AndroidJamSriLanka/HikingPal/blob/master/UI_Design/1.png "Starting Screen") <br/>
+![Alt text](https://github.com/AndroidJamSriLanka/HikingPal/blob/master/UI_Design/2.png "Map View") <br/>
+![Alt text](https://github.com/AndroidJamSriLanka/HikingPal/blob/master/UI_Design/3.png "Display info of selected location")
 
 
 
