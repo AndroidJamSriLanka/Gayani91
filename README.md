@@ -31,7 +31,8 @@ Get data using REST APIs
 
 ![Alt text](https://github.com/AndroidJamSriLanka/HikingPal/blob/master/UI_Design/1.png "Starting Screen") <br/>
 ![Alt text](https://github.com/AndroidJamSriLanka/HikingPal/blob/master/UI_Design/2.png "Map View") <br/>
-![Alt text](https://github.com/AndroidJamSriLanka/HikingPal/blob/master/UI_Design/3.png "Display info of selected location")
+![Alt text](https://github.com/AndroidJamSriLanka/HikingPal/blob/master/UI_Design/3.png "Display info of selected location") <br/>
+![Alt text](https://github.com/AndroidJamSriLanka/HikingPal/blob/master/UI_Design/4.png "Weather Report")
 
 
 
