@@ -15,7 +15,7 @@
 
     <application
         android:allowBackup="true"
-        android:icon="@mipmap/ic_launcher"
+        android:icon="@mipmap/hikingpal1"
         android:label="@string/app_name"
         android:theme="@style/AppTheme" >
         <meta-data
@@ -28,12 +28,11 @@
         <activity
             android:name=".MapsActivity"
             android:label="@string/title_activity_maps" >
-
         </activity>
         <activity
             android:name=".Sinharaja"
             android:label="@string/title_activity_sinharaja"
-            android:theme="@style/Theme.AppCompat.NoActionBar">
+            android:theme="@style/Theme.AppCompat.NoActionBar" >
         </activity>
         <activity
             android:name=".Horton_Plains"
@@ -55,12 +54,17 @@
         <activity
             android:name=".MainActivity"
             android:label="@string/title_activity_main"
-            android:theme="@style/Theme.AppCompat.NoActionBar">
+            android:theme="@style/Theme.AppCompat.NoActionBar" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
+        </activity>
+        <activity
+            android:name=".MiddleActivity"
+            android:label="@string/title_activity_middle"
+            android:theme="@style/Theme.AppCompat.NoActionBar" >
         </activity>
     </application>
 

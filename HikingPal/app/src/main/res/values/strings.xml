@@ -9,8 +9,12 @@
     <string name="title_activity_adams__peak">Adams_Peak</string>
     <string name="title_activity_knuckles">Knuckles</string>
     <string name="title_activity_belihuloya">Belihuloya</string>
-    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_main">HikingPal</string>
     <string name="start1">Dream! </string>
     <string name="start2">Explore! </string>
     <string name="start3">Discover!</string>
+
+
+    <string name="action_refresh" translatable="false">Refresh</string>
+    <string name="title_activity_middle">MiddleActivity</string>
 </resources>
