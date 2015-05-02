@@ -21,6 +21,11 @@ public class MiddleActivity extends ActionBarActivity {
                     .add(R.id.container, new ForecastFragment())
                     .commit();
         }
+
+
+
+
+
     }
 
 

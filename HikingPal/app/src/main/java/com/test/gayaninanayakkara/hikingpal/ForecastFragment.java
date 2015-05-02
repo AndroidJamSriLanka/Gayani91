@@ -62,7 +62,7 @@ public class ForecastFragment extends Fragment {
         if(id==R.id.action_refresh){
             FetchWeatherTask weatherTask=new FetchWeatherTask();
             weatherTask.execute("94043");
-            return  true;
+            return true;
         }
 
         return super.onOptionsItemSelected(item);
@@ -76,13 +76,13 @@ public class ForecastFragment extends Fragment {
         View rootView = inflater.inflate(R.layout.fragment_main, container, false);
 
         String[] forecastArray={
-                "Today - SunnyLove - 88/63",
-                "Tomorrow - Cloudy - 72/63",
-                "Weds - Foggy - 70/40",
-                "Thurs - Asteroids - 75/67",
-                "Fri - Heavy Rain - 45/70",
-                "Sat - Sunny - 80/70",
-                "Sun - Cloudy 58/67"
+                "day 1",
+                "day 2",
+                "day 3",
+                "day 4",
+                "day 5",
+                "day 6",
+                "day 7"
         };
 
         List<String> weekForecast=new ArrayList<String>(Arrays.asList(forecastArray));
@@ -312,13 +312,10 @@ public class ForecastFragment extends Fragment {
                 for(String dayForecastStr:strings){
                     mForecastAdapter.add(dayForecastStr);
                 }
-                //new data back from the server!!
+
             }
         }
-
-
     }
-
 }
 
 
